@@ -2,13 +2,64 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
-    
+h1 {
+  text-align: center;
+  color: #fbf7f7;
+  font-size: 40px;
+  font-family: "Pacifico", cursive;
+  
+}
+.logo{
+  width:300px;
+  height: 200px;
+  background-size:100%;
+}
 body {
   margin: 0;
-  box-sizing: border-box;
+  padding: 0;
+  
+  
 }
-
-.container {
+.background-image{
+  background-color: yellow;
+  background-image: url('./giphy-downsized-large.gif');
+  background-repeat: repeat-y;
+  background-size: 100%;
+  color: #000;
+  padding: top 100px;
+  padding-bottom: 100px; 
+}
+#p1 {
+margin: 30px;
+text-align: justify;
+font-family: 'Times New Roman', Times, serif;
+text-indent: 3%;
+font-size: 40px;
+color: white;
+}
+#p2 {
+  margin: 30px;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  text-indent: 3%;
+  font-size: 40px;
+  color: white;
+  
+}
+#p3 {
+  margin: 30px;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  text-indent: 3%;
+  font-size: 40px;
+  color: white;
+  }
+.link{
+  color: red;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+/* .container {
   line-height: 150%;
 }
 
@@ -20,11 +71,7 @@ body {
   background-color: #374df4;
 }
 
-.header h1 {
-  color: #222222;
-  font-size: 30px;
-  font-family: "Pacifico", cursive;
-}
+
 
 .header .social a {
   padding: 0 8px;
@@ -99,4 +146,4 @@ tr td i.fas {
   background-color:  #374df4;
   color: rgb(11, 1, 1);
   text-align: center;
-}
+} */
