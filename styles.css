@@ -29,7 +29,7 @@ text-align: justify;
 font-family: 'Times New Roman', Times, serif;
 text-indent: 3%;
 font-size: 40px;
-color: white;
+color: black;
 }
 #p2 {
   margin: 30px;
@@ -37,7 +37,7 @@ color: white;
   font-family: 'Times New Roman', Times, serif;
   text-indent: 3%;
   font-size: 40px;
-  color: white;
+  color: black;
   
 }
 #p3 {
@@ -46,7 +46,7 @@ color: white;
   font-family: 'Times New Roman', Times, serif;
   text-indent: 3%;
   font-size: 40px;
-  color: white;
+  color: black;
   }
 .link{
   color: red;
