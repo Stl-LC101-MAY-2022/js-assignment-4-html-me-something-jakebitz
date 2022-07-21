@@ -20,6 +20,16 @@ body {
   
   
 }
+.wrapper{
+  text-align: center;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  
+}
 .background-image{
   background-color: yellow;
   background-image: url('./giphy-downsized-large.gif');
