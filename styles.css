@@ -3,10 +3,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
 #mainHeading {
-  /* text-align: center; */
+  text-align: center;
   color: red;
-  /* font-size: 40px;
-  font-family: "Pacifico", cursive; */
+  font-size: 40px;
+  font-family: "Pacifico", cursive;
   
 }
 .logo{
@@ -17,25 +17,9 @@
 body {
   margin: 8px;
 }
-.wrapper{
-  text-align: center;
-}
-h2 {
-  font-family: 'Times New Roman', Times, serif;
-  text-align: center;
-  font-size: 40px;
-  color: black;
   
-}
-.background-image{
-  background-color: yellow;
-  background-image: url('./giphy-downsized-large.gif');
-  background-repeat: repeat-y;
-  background-size: 100%;
-  color: #000;
-  padding: top 100px;
-  padding-bottom: 100px; 
-}
+  
+
 .funParagraph{
   color:green;
 }
@@ -45,7 +29,7 @@ text-align: justify;
 font-family: 'Times New Roman', Times, serif;
 text-indent: 3%;
 font-size: 40px;
-color: black;
+color: white;
 }
 #p2 {
   margin: 30px;
@@ -53,7 +37,7 @@ color: black;
   font-family: 'Times New Roman', Times, serif;
   text-indent: 3%;
   font-size: 40px;
-  color: black;
+  color: white;
   
 }
 #p3 {
@@ -62,98 +46,10 @@ color: black;
   font-family: 'Times New Roman', Times, serif;
   text-indent: 3%;
   font-size: 40px;
-  color: black;
+  color: white;
   }
 .link{
   color: red;
   font-size: 40px;
   font-family: 'Times New Roman', Times, serif;
 }
-/* .container {
-  line-height: 150%;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px;
-  background-color: #374df4;
-}
-
-
-
-.header .social a {
-  padding: 0 8px;
-  color: #e7dddd;
-}
-
-.left {
-  float: left;
-  width: 180px;
-  margin: 0;
-  padding: 1em;
-}
-
-.content {
-  margin-left: 190px;
-  border-left: 1px  #374df4;
-  padding: 1em;
-  overflow: hidden;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
-
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li a.active {
-  background-color: #374df4;
-  color: white;
-}
-
-li a:hover:not(.active) {
-  background-color:  #374df4;
-  color: white;
-}
-
-table {
-  color: #374df4;
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  margin: 30px 0;
-}
-
-td,
-th {
-  border: 1px solid  #374df4;
-  padding: 8px;
-}
-
-tr:nth-child(1) {
-  background-color:  #374df4;
-  color: white;
-}
-
-tr td i.fas {
-  display: block;
-  font-size: 35px;
-  text-align: center;
-}
-
-.footer {
-  padding: 55px 20px;
-  background-color:  #374df4;
-  color: rgb(11, 1, 1);
-  text-align: center;
-} */
