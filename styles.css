@@ -2,7 +2,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
-h1 {
+#mainHeading {
   text-align: center;
   color: #fbf7f7;
   font-size: 40px;
@@ -15,7 +15,7 @@ h1 {
   background-size:100%;
 }
 body {
-  margin: 0;
+  margin: 8px;
   padding: 0;
   
   
@@ -29,7 +29,10 @@ body {
   padding: top 100px;
   padding-bottom: 100px; 
 }
-#p1 {
+.funParagraph{
+  color:green;
+}
+#testP {
 margin: 30px;
 text-align: justify;
 font-family: 'Times New Roman', Times, serif;
