@@ -21,15 +21,13 @@ body {
   
 
 .funParagraph{
-  color:green;
-}
-#testP {
+color:green;
 margin: 30px;
 text-align: justify;
 font-family: 'Times New Roman', Times, serif;
 text-indent: 3%;
 font-size: 40px;
-color: black;
+
 }
 #p2 {
   margin: 30px;
